@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/fractalqb/pack)](https://goreportcard.com/report/github.com/fractalqb/pack)
 [![GoDoc](https://godoc.org/github.com/fractalqb/pack?status.svg)](https://godoc.org/github.com/fractalqb/pack)
 
-`import "git.fractalqb.de/fractalqb/pack"`
+`import "github.com/Awarrior91/pack"`
 
 ---
 # Intro
@@ -80,8 +80,8 @@ timestamp from `time.Now()`.
 # Install
 To get the library for writing your packing program:
 
-`go get -u git.fractalqb.de/fractalqb/pack`
+`go get -u github.com/fractalqb/pack`
 
 To get the `versioner` binary:
 
-`go install -u git.fractalqb.de/fractalqb/pack/versioner`
+`go install -u github.com/fractalqb/pack/versioner`
